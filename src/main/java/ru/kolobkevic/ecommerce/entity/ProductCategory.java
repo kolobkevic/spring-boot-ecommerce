@@ -1,6 +1,7 @@
 package ru.kolobkevic.ecommerce.entity;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
+
 import lombok.Getter;
 import lombok.Setter;
 

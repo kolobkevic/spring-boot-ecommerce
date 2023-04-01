@@ -1,6 +1,7 @@
 package ru.kolobkevic.ecommerce.entity;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
+
 import lombok.Data;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
